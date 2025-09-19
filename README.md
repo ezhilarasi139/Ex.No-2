@@ -1,6 +1,7 @@
 # Ex.No : 2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Register Number: 212224040088
+## Name: EZHILARASI N
 ## Date:19.09.25
 ## AIM
  To write a lex program to implement lexical analyzer to recognize a few patterns.
