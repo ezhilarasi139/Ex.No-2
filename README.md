@@ -1,4 +1,4 @@
-# Ex.No :2
+# Ex.No : 2
 # GENERATION OF LEXICAL TOKENS USING LEX/FLEX TOOL
 ## Register Number: 212224040088
 ## Date:19.09.25
