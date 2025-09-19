@@ -93,5 +93,7 @@ int main()
 }
 ```
 ## OUTPUT:
+<img width="731" height="533" alt="image" src="https://github.com/user-attachments/assets/9a56ece6-5c89-4948-a8b3-0172ace0fb59" />
+
 ## RESULT:
  The lexical analyzer is implemented using lex and the output is verified.
